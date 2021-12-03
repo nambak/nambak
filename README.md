@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 * 남성룡
-* 1980년 7월 16일 (41세)
 * 백엔드 개발자
 * 스킬: PHP, Laravel Framework, JavaScript, VueJs, SQL, Mysql, HTML, CSS, AWS
 * 2014년 11월까지 지방 중소기업 전산실 하드웨어 유지보수직을 10년간 다니다, 
